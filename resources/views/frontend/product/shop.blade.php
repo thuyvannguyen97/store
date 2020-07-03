@@ -84,7 +84,7 @@
 											<div class="form-field">
 												<i class="icon icon-arrow-down3"></i>
 												<select name="start" id="people" class="form-control">
-													<option value="100000">100.000 VNĐ</option>
+													<option value="100000">99.000 VNĐ</option>
 													<option value="200000">200.000 VNĐ</option>
 													<option value="300000">300.000 VNĐ</option>
 													<option value="500000">500.000 VNĐ</option>
